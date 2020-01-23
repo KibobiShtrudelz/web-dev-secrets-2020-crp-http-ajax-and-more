@@ -1,0 +1,13 @@
+p {
+  display: inline;
+  color: blue;
+}
+
+span {
+  color: red;
+}
+
+img {
+  display: block;
+  margin: 2em;
+}
